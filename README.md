@@ -1,2 +1,2 @@
-# vapor-app
+# VaporApp
 Vapor app base project
